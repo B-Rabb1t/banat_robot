@@ -1,0 +1,4 @@
+<launch>
+     <node pkg="banat_robot" type="imagine.py" name="banat_robot_task1" output="screen">
+     </node>
+</launch>
